@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Md. Toyhid Sarwar 👋</h1>
 
 <p align="center">
-  <strong>Artificial Intelligence Engineer (R&D) at HawarIT Limited</strong><br>
-  📍 Dhaka, Bangladesh | 🛰️ Geospatial AI | 🎓 Lecturer | 🤖 Researcher
+  <strong>Artificial Intelligence -(AI) Engineer (R&D) at HawarIT Limited</strong><br>
+  📍 Dhaka, Bangladesh | 🛰️ Geospatial AI | | 🤖 Researcher
 </p>
 
 ---
 
 ### 🧠 About Me
 
-🔬 I work as an **AI Engineer (R&D)** at [**HawarIT Limited**](https://hawar.it), a Dutch-Bangladeshi tech company specializing in GIS, remote sensing, photogrammetry, and enterprise software.
+🔬 I work as an **AI Engineer (R&D)** at [**HawarIT Limited**](https://www.hawarit.com/), a Dutch-Bangladeshi tech company specializing in GIS, remote sensing, photogrammetry, and enterprise software.
 
 🛰️ I develop **AI-driven automation** for traditionally manual geospatial tasks — including **satellite imagery, aerial photography**, and **LiDAR processing** — contributing to national-level projects in the **Netherlands**.
 
 🎓 I completed my **B.Sc. in CSE** from **Rajshahi University of Engineering & Technology (RUET)**.  
-📄 My research **"Prediction of Dengue using Machine Learning Algorithms: Case Study Dhaka"** was published at **IEEE ICECTE 2022**.
+📄 My research **"Prediction of Dengue using Machine Learning Algorithms: Case Study Dhaka"** was published at **IEEE ICECTE 2022**.(https://ieeexplore.ieee.org/document/10114535)
 
-👨‍🏫 I'm also a **part-time Lecturer** at **Saic Institute of Management & Technology (SIMT)** (affiliated with the University of Dhaka), where I teach **Java OOP** and guide students in their computing journey.
+👨‍🏫 I also worked as a **part-time Lecturer** at **Saic Institute of Management & Technology (SIMT)** (affiliated with the University of Dhaka), where I teach **Java OOP** and guide students in their computing journey.
 
 ---
 
