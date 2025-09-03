@@ -38,8 +38,8 @@
 
 
 #### 🔧 ML/DL Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 
 #### 📊 Data Analysis & Preprocessing
