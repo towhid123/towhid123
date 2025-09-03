@@ -16,7 +16,7 @@
 🎓 I completed my **B.Sc. in CSE** from **Rajshahi University of Engineering & Technology (RUET)**.  
 📄 My research **"Prediction of Dengue using Machine Learning Algorithms: Case Study Dhaka"** was published at **IEEE ICECTE 2022**.(https://ieeexplore.ieee.org/document/10114535)
 
-👨‍🏫 I also worked as a **part-time Lecturer** at **Saic Institute of Management & Technology (SIMT)** (affiliated with the University of Dhaka), where I teach **Java OOP** and guide students in their computing journey.
+👨‍🏫 I also worked as a **part-time Lecturer** at **Saic Institute of Management & Technology (SIMT)** (affiliated with the University of Dhaka), where I taught Object-Oriented Programming **(Java)** and guide students in their computing journey.
 
 ---
 
