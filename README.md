@@ -80,6 +80,6 @@
 
 ### 💬 Fun Fact
 
-> I love solving real-world problems with data, building intelligent systems, and empowering others through teaching.
+> I love solving real-world problems with data, building intelligent systems, continuously learning new things, and collaborating with others to create meaningful impact.
 
 ---
