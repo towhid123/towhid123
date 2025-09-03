@@ -30,15 +30,12 @@
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
-#### 🤖 Machine Learning
-- Linear Regression, Logistic Regression, Decision Trees  
-- XGBoost, Random Forests, Support Vector Machines (SVM)  
-- Clustering Algorithms (K-Means, DBSCAN)
+#### 🧠 ML/DL Expertise
 
-#### 🧠 Deep Learning
-- Artificial Neural Networks (ANN)
-- Recurrent Neural Networks (RNN)
-- Convolutional Neural Networks (CNN)
+![Classification](https://img.shields.io/badge/-Classification-3776AB?style=for-the-badge&logo=target)
+![Detection](https://img.shields.io/badge/-Detection-FF5733?style=for-the-badge&logo=search)
+![Prediction](https://img.shields.io/badge/-Prediction-28A745?style=for-the-badge&logo=chart-line)
+
 
 #### 🔧 ML/DL Frameworks
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
@@ -62,8 +59,12 @@
 
 #### 🛰️ Geospatial Tools
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 - Catalyst Earth (PCI Geomatics)
+
+#### 📚 Libraries
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![Rasterio](https://img.shields.io/badge/-Rasterio-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![GDAL](https://img.shields.io/badge/-GDAL-FFB300?style=for-the-badge&logo=python&logoColor=black)
 
 #### ⚙️ Others
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
