@@ -48,10 +48,15 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🌐 Web Development
-- HTML, CSS, Bootstrap
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🗄️ Databases
-- PostgreSQL, MySQL
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🛰️ Geospatial Tools
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white&style=for-the-badge)
