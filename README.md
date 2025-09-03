@@ -42,10 +42,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 
-#### 📊 Data Analysis & Preprocessing
-- Data Cleaning & Transformation  
-- Handling Missing Values & Outliers  
-- Exploratory Data Analysis (EDA)
 
 #### 📈 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
@@ -59,7 +55,6 @@
 
 #### 🛰️ Geospatial Tools
 ![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white&style=for-the-badge)
-- Catalyst Earth (PCI Geomatics)
 
 #### 📚 Libraries
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
@@ -74,10 +69,6 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
 
 ---
-
-
-
-
 ---
 
 ### 🌐 Portfolio & Contact
